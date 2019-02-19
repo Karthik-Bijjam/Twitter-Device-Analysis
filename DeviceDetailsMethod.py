@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb 15 22:13:06 2019
-
-@author: S533488
 """
 
 def DeviceDetails(TweetsData):
